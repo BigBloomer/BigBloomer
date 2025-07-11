@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BigBloomer
 - 👀 I’m interested in *realpolitik* 
-- 🌱 I’m currently learning godot and nix
+- 🌱 I’m currently learning godot and blender
 - 💞️ I’m looking to collaborate on my godot projects
 
 <!---
